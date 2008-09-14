@@ -1,0 +1,12 @@
+=Tutorial=
+
+== Introduction ==
+This tutorial is designed to illustrate how to take a vector based image (SVG) and fill it with linear gradients pulled from raster images.  I use Inkscape here since it can read and write SVG.
+
+===Start with an Outline===
+First I drew an outline of a flower in Inkscape using the Bezier Curve tool.  Compaints about my own meager artistic skills aside:
+[http://rastertovector.googlecode.com/files/drawing1.svg http://rastertovector.googlecode.com/files/drawing1.png]
+Now I need to fill in the different parts of the vector image.
+
+===Surf for Linear Gradients===
+I think a nice blue would look good for the petals.  Since I am lazy, I will use one linear gradient for all the petals.  So I go to [http://images.google.com/ Google Images] and look up "Colored Gradient Test" and find [http://images.google.com/imgres?imgurl=http://1zelda.com/tv/pics/rgb_test.jpg&imgrefurl=http://1zelda.com/tv/&h=1080&w=1920&sz=146&hl=en&start=66&sig2=nTxapOTPE5xhgjwe6m_3UQ&um=1&usg=__WGcqe4mOIuue4sJjAWJsGXvr5S4=&tbnid=ZfcBnFgkV5Rq2M:&tbnh=84&tbnw=150&ei=C43NSK6UNZTysAPGpOWGBw&prev=/images%3Fq%3Dcolored%2Bgradient%2Btest%26start%3D60%26ndsp%3D20%26um%3D1%26hl%3Den%26client%3Dfirefox-a%26rls%3Dorg.mozilla:en-US:official%26sa%3DN this image].  
